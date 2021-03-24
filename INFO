@@ -1,0 +1,10 @@
+{
+"name": "K2S.cc by NutTom",
+"hostprefix": "k2s.cc,keep2share.cc",
+"displayname": "K2S.cc by NutTom",
+"version": "ugly beta",
+"authentication": "yes",
+"module": "k2s.php",
+"class": "SynoFileHostingK2s",
+"description": "version ugly beta"
+}
